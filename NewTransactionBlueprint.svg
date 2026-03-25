@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="NewTransactionBlueprint.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.52599003"
+     inkscape:cx="1039.9437"
+     inkscape:cy="519.97184"
+     inkscape:window-width="1920"
+     inkscape:window-height="1094"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="53.773398"
+       y="150.56552"
+       width="922.21378"
+       height="49.740394"
+       id="rect3" />
+    <rect
+       x="48.396058"
+       y="30.919704"
+       width="681.57782"
+       height="56.462068"
+       id="rect14" />
+    <rect
+       x="1775.8665"
+       y="326.67339"
+       width="77.971427"
+       height="49.740393"
+       id="rect12" />
+    <rect
+       x="617.04974"
+       y="349.52709"
+       width="373.72512"
+       height="32.264039"
+       id="rect11" />
+    <rect
+       x="57.806403"
+       y="333.39507"
+       width="389.85714"
+       height="49.740393"
+       id="rect10" />
+    <rect
+       x="946.41181"
+       y="159.97586"
+       width="389.85714"
+       height="41.674384"
+       id="rect7" />
+    <rect
+       x="647.96945"
+       y="256.76798"
+       width="379.10246"
+       height="33.608374"
+       id="rect6" />
+    <rect
+       x="83.348767"
+       y="258.11231"
+       width="405.98915"
+       height="57.806403"
+       id="rect5" />
+    <rect
+       x="71.249752"
+       y="161.32019"
+       width="794.50196"
+       height="34.952709"
+       id="rect4" />
+    <color-profile
+       name="Adobe-RGB-1998"
+       xlink:href="../../../../../../../../../WINDOWS/system32/spool/drivers/color/AdobeRGB1998.icc"
+       id="color-profile2" />
+    <rect
+       x="647.96942"
+       y="256.76797"
+       width="379.10245"
+       height="33.608376"
+       id="rect6-2" />
+    <rect
+       x="617.04974"
+       y="349.5271"
+       width="373.72513"
+       height="32.264038"
+       id="rect11-6" />
+    <rect
+       x="83.34877"
+       y="258.1123"
+       width="405.98914"
+       height="57.806404"
+       id="rect5-3" />
+    <rect
+       x="57.806404"
+       y="333.39508"
+       width="389.85715"
+       height="49.740395"
+       id="rect10-7" />
+    <rect
+       x="57.806404"
+       y="333.39508"
+       width="389.85715"
+       height="49.740395"
+       id="rect10-7-5" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:#2b0000;stroke-width:0.264583"
+       id="rect1"
+       width="507.56766"
+       height="30.944908"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.264583"
+       id="rect2"
+       width="508.99042"
+       height="255.74011"
+       x="-0.35568863"
+       y="30.233532" />
+    <rect
+       style="fill:none;stroke:#2b0000;stroke-width:0.104538"
+       id="rect3-8-3-3"
+       width="37.507351"
+       height="12.609146"
+       x="188.87483"
+       y="260.14639" />
+    <rect
+       style="fill:none;stroke:#2b0000;stroke-width:0.241646"
+       id="rect8-8"
+       width="250.07201"
+       height="17.095989"
+       x="12.250987"
+       y="36.859192" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,181.91531,173.66706)"
+       id="text9-7"
+       style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10-7);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
+         x="57.806641"
+         y="357.72337"
+         id="tspan2">Create</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,82.437104,172.9095)"
+       id="text9-7-7"
+       style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10-7-5);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
+         x="57.806641"
+         y="357.72337"
+         id="tspan4">Discard  X</tspan></text>
+    <rect
+       style="fill:#808080;stroke:#2b0000;stroke-width:0.264583"
+       id="rect13"
+       width="189.58203"
+       height="19.562874"
+       x="10.31497"
+       y="5.3353291" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text13"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
+         x="48.396484"
+         y="69.846044"
+         id="tspan5">Employee Transaction Tacker</tspan></text>
+    <rect
+       style="fill:none;stroke:#2b0000;stroke-width:0.109826"
+       id="rect3-8-3-7"
+       width="41.414639"
+       height="12.603859"
+       x="95.010353"
+       y="259.66357" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="font-size:42.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
+         x="53.773438"
+         y="189.49253"
+         id="tspan6">New Transaction</tspan></text>
+    <rect
+       style="fill:#cccccc;stroke:#2b0000;stroke-width:0.264583"
+       id="rect8"
+       width="480.89099"
+       height="196.69582"
+       x="12.449101"
+       y="59.755688" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.144681"
+       id="rect9-8-8"
+       width="16.125885"
+       height="13.280381"
+       x="219.41875"
+       y="67.840965" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.144681"
+       id="rect9-8-8-5"
+       width="16.125885"
+       height="13.280381"
+       x="219.05624"
+       y="91.98259" />
+    <g
+       id="g17-6"
+       transform="translate(353.36993,21.506014)">
+      <rect
+         style="fill:#1a1a1a;stroke:#2b0000;stroke-width:0.160122"
+         id="rect15-1"
+         width="6.4441595"
+         height="6.6870646"
+         x="-146.67261"
+         y="-23.834465"
+         transform="matrix(0.76959652,-0.63853049,0.78231791,0.62287935,0,0)"
+         ry="0" />
+      <rect
+         style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.158424"
+         id="rect17-3"
+         width="10.866798"
+         height="4.4161243"
+         x="-131.39038"
+         y="74.706039" />
+      <rect
+         style="fill:#1a1a1a;stroke:#2b0000;stroke-width:0.158424"
+         id="rect16-8"
+         width="2.8348165"
+         height="7.2962031"
+         x="-127.6106"
+         y="71.441948" />
+    </g>
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.308625"
+       id="rect9-8"
+       width="74.294876"
+       height="13.116437"
+       x="141.59546"
+       y="67.584709" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.308625"
+       id="rect9-8-5"
+       width="74.294876"
+       height="13.116437"
+       x="141.69766"
+       y="92.224945" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.349149"
+       id="rect9-8-5-8"
+       width="95.38118"
+       height="13.075912"
+       x="141.26286"
+       y="118.54791" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.23175"
+       id="rect9"
+       width="41.648399"
+       height="13.193312"
+       x="19.981049"
+       y="67.330795" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.272282"
+       id="rect9-87"
+       width="57.667847"
+       height="13.15278"
+       x="19.512358"
+       y="93.057175" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.299598"
+       id="rect9-87-6"
+       width="69.964516"
+       height="13.125463"
+       x="20.708239"
+       y="118.85308" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#2b0000;stroke-width:0.264583"
+       x="21.955463"
+       y="101.78194"
+       id="text9-9"><tspan
+         sodipodi:role="line"
+         id="tspan9-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.264583"
+         x="21.955463"
+         y="101.78194">Expense Type</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#2b0000;stroke-width:0.264583"
+       x="23.320719"
+       y="127.34949"
+       id="text9-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan9-3-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.264583"
+         x="23.320719"
+         y="127.34949">Expense Amount</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#4d4d4d;stroke:#2b0000;stroke-width:0.264583;stroke-opacity:0"
+       x="151.73827"
+       y="127.5095"
+       id="text9-9-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan9-3-4-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke:#2b0000;stroke-width:0.264583;stroke-opacity:0"
+         x="151.73827"
+         y="127.5095">Enter Number Here</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#2b0000;stroke-width:0.264583"
+       x="21.567553"
+       y="76.343597"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.264583"
+         x="21.567553"
+         y="76.343597">Employee</tspan></text>
+    <g
+       id="g17"
+       transform="translate(353.62283,-2.7666083)">
+      <rect
+         style="fill:#1a1a1a;stroke:#2b0000;stroke-width:0.160122"
+         id="rect15"
+         width="6.4441595"
+         height="6.6870646"
+         x="-146.67261"
+         y="-23.834465"
+         transform="matrix(0.76959652,-0.63853049,0.78231791,0.62287935,0,0)"
+         ry="0" />
+      <rect
+         style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.158424"
+         id="rect17"
+         width="10.866798"
+         height="4.4161243"
+         x="-131.39038"
+         y="74.706039" />
+      <rect
+         style="fill:#1a1a1a;stroke:#2b0000;stroke-width:0.158424"
+         id="rect16"
+         width="2.8348165"
+         height="7.2962031"
+         x="-127.6106"
+         y="71.441948" />
+    </g>
+  </g>
+</svg>
