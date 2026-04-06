@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="AccountView_NewAccountBlueprint.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.74386223"
+     inkscape:cx="914.14777"
+     inkscape:cy="430.85935"
+     inkscape:window-width="1920"
+     inkscape:window-height="1094"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="53.773398"
+       y="150.56552"
+       width="922.21378"
+       height="49.740394"
+       id="rect3" />
+    <rect
+       x="48.396058"
+       y="30.919704"
+       width="681.57782"
+       height="56.462068"
+       id="rect14" />
+    <rect
+       x="1775.8665"
+       y="326.67339"
+       width="77.971427"
+       height="49.740393"
+       id="rect12" />
+    <rect
+       x="617.04974"
+       y="349.52709"
+       width="373.72512"
+       height="32.264039"
+       id="rect11" />
+    <rect
+       x="57.806403"
+       y="333.39507"
+       width="389.85714"
+       height="49.740393"
+       id="rect10" />
+    <rect
+       x="946.41181"
+       y="159.97586"
+       width="389.85714"
+       height="41.674384"
+       id="rect7" />
+    <rect
+       x="647.96945"
+       y="256.76798"
+       width="379.10246"
+       height="33.608374"
+       id="rect6" />
+    <rect
+       x="83.348767"
+       y="258.11231"
+       width="405.98915"
+       height="57.806403"
+       id="rect5" />
+    <rect
+       x="71.249752"
+       y="161.32019"
+       width="794.50196"
+       height="34.952709"
+       id="rect4" />
+    <color-profile
+       name="Adobe-RGB-1998"
+       xlink:href="../../../../../../../../../WINDOWS/system32/spool/drivers/color/AdobeRGB1998.icc"
+       id="color-profile2" />
+    <rect
+       x="647.96942"
+       y="256.76797"
+       width="379.10245"
+       height="33.608376"
+       id="rect6-2" />
+    <rect
+       x="617.04974"
+       y="349.5271"
+       width="373.72513"
+       height="32.264038"
+       id="rect11-6" />
+    <rect
+       x="83.34877"
+       y="258.1123"
+       width="405.98914"
+       height="57.806404"
+       id="rect5-3" />
+    <rect
+       x="57.806404"
+       y="333.39508"
+       width="389.85715"
+       height="49.740395"
+       id="rect10-7" />
+    <rect
+       x="57.806404"
+       y="333.39508"
+       width="389.85715"
+       height="49.740395"
+       id="rect10-7-5" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:#2b0000;stroke-width:0.264583"
+       id="rect1"
+       width="507.56766"
+       height="30.944908"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.264583"
+       id="rect2"
+       width="508.99042"
+       height="255.74011"
+       x="-0.35568863"
+       y="30.233532" />
+    <rect
+       style="fill:none;stroke:#2b0000;stroke-width:0.104538"
+       id="rect3-8-3-3"
+       width="37.507351"
+       height="12.609146"
+       x="188.87483"
+       y="260.14639" />
+    <rect
+       style="fill:none;stroke:#2b0000;stroke-width:0.241646"
+       id="rect8-8"
+       width="250.07201"
+       height="17.095989"
+       x="12.250987"
+       y="36.859192" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,181.91531,173.66706)"
+       id="text9-7"
+       style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10-7);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
+         x="57.806641"
+         y="357.72337"
+         id="tspan2">Create</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,82.437104,172.9095)"
+       id="text9-7-7"
+       style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10-7-5);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
+         x="57.806641"
+         y="357.72337"
+         id="tspan3">Discard  X</tspan></text>
+    <rect
+       style="fill:#808080;stroke:#2b0000;stroke-width:0.264583"
+       id="rect13"
+       width="189.58203"
+       height="19.562874"
+       x="10.31497"
+       y="5.3353291" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text13"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
+         x="48.396484"
+         y="69.846044"
+         id="tspan4">Employee Transaction Tacker</tspan></text>
+    <rect
+       style="fill:none;stroke:#2b0000;stroke-width:0.109826"
+       id="rect3-8-3-7"
+       width="41.414639"
+       height="12.603859"
+       x="95.010353"
+       y="259.66357" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="font-size:42.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
+         x="53.773438"
+         y="189.49253"
+         id="tspan5">Account Details</tspan></text>
+    <rect
+       style="fill:#cccccc;stroke:#2b0000;stroke-width:0.264583"
+       id="rect8"
+       width="480.89099"
+       height="196.69582"
+       x="12.449101"
+       y="59.755688" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.171269"
+       id="rect9-8-5-8"
+       width="22.642893"
+       height="13.253792"
+       x="138.3284"
+       y="135.53201" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.171269"
+       id="rect9-8-5-8-11"
+       width="22.642893"
+       height="13.253792"
+       x="201.69814"
+       y="135.02313" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.320733"
+       id="rect9"
+       width="80.312866"
+       height="13.104329"
+       x="20.025539"
+       y="67.375282" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.319221"
+       id="rect9-87-6"
+       width="79.548485"
+       height="13.10584"
+       x="20.71805"
+       y="135.58026" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#2b0000;stroke-width:0.264583"
+       x="23.320719"
+       y="144.06685"
+       id="text9-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan9-3-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.264583"
+         x="23.320719"
+         y="144.06685">Security Access</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#2b0000;stroke-width:0.264583"
+       x="134.01274"
+       y="159.39615"
+       id="text9-9-8-1"><tspan
+         sodipodi:role="line"
+         id="tspan9-3-4-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.264583"
+         x="134.01274"
+         y="159.39615">Manager</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;fill:#808080;stroke:#2b0000;stroke-width:0.264583"
+       x="209.98688"
+       y="144.76169"
+       id="text9-9-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan9-3-4-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.264583"
+         x="209.98688"
+         y="144.76169">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#2b0000;stroke-width:0.264583"
+       x="194.25914"
+       y="159.84293"
+       id="text9-9-8-16"><tspan
+         sodipodi:role="line"
+         id="tspan9-3-4-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.264583"
+         x="194.25914"
+         y="159.84293">Employee</tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.322023"
+       id="rect9-87-6-4"
+       width="80.968437"
+       height="13.103038"
+       x="19.397156"
+       y="92.565971" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#2b0000;stroke-width:0.264583"
+       x="21.998423"
+       y="101.05116"
+       id="text9-9-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan9-3-4-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.264583"
+         x="21.998423"
+         y="101.05116">Account Password</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#4d4d4d;stroke:#2b0000;stroke-width:0.264583;stroke-opacity:0"
+       x="150.31551"
+       y="143.51549"
+       id="text9-9-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan9-3-4-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke:#2b0000;stroke-width:0.264583;stroke-opacity:0"
+         x="150.31551"
+         y="143.51549" /></text>
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.349149"
+       id="rect9-8-5-8-8"
+       width="95.38118"
+       height="13.075912"
+       x="140.49525"
+       y="93.030251" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#4d4d4d;stroke:#2b0000;stroke-width:0.264583;stroke-opacity:0"
+       x="150.97066"
+       y="101.99184"
+       id="text9-9-8-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan9-3-4-5-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke:#2b0000;stroke-width:0.264583;stroke-opacity:0"
+         x="150.97066"
+         y="101.99184">Password</tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.349149"
+       id="rect9-8-5-8-8-8"
+       width="95.38118"
+       height="13.075912"
+       x="139.72847"
+       y="114.00157" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#4d4d4d;stroke:#2b0000;stroke-width:0.264583;stroke-opacity:0"
+       x="150.20386"
+       y="122.96317"
+       id="text9-9-8-3-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan9-3-4-5-4-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke:#2b0000;stroke-width:0.264583;stroke-opacity:0"
+         x="150.20386"
+         y="122.96317">Confirm Password </tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.349149"
+       id="rect9-8-5-8-1"
+       width="95.38118"
+       height="13.075912"
+       x="140.37759"
+       y="67.777168" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#4d4d4d;stroke:#2b0000;stroke-width:0.264583;stroke-opacity:0"
+       x="150.853"
+       y="76.738754"
+       id="text9-9-8-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan9-3-4-5-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke:#2b0000;stroke-width:0.264583;stroke-opacity:0"
+         x="150.853"
+         y="76.738754">Username</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#2b0000;stroke-width:0.264583"
+       x="21.567553"
+       y="76.343597"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.264583"
+         x="21.567553"
+         y="76.343597">Account  Username</tspan></text>
+  </g>
+</svg>
