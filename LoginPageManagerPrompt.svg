@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="LoginPageManagerPrompt.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.74386223"
+     inkscape:cx="947.75615"
+     inkscape:cy="463.12339"
+     inkscape:window-width="1920"
+     inkscape:window-height="1094"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="48.396058"
+       y="30.919704"
+       width="681.57782"
+       height="56.462068"
+       id="rect14" />
+    <rect
+       x="1775.8665"
+       y="326.67339"
+       width="77.971427"
+       height="49.740393"
+       id="rect12" />
+    <rect
+       x="617.04974"
+       y="349.52709"
+       width="373.72512"
+       height="32.264039"
+       id="rect11" />
+    <rect
+       x="57.806403"
+       y="333.39507"
+       width="389.85714"
+       height="49.740393"
+       id="rect10" />
+    <rect
+       x="946.41181"
+       y="159.97586"
+       width="389.85714"
+       height="41.674384"
+       id="rect7" />
+    <rect
+       x="647.96945"
+       y="256.76798"
+       width="379.10246"
+       height="33.608374"
+       id="rect6" />
+    <rect
+       x="83.348767"
+       y="258.11231"
+       width="405.98915"
+       height="57.806403"
+       id="rect5" />
+    <rect
+       x="71.249752"
+       y="161.32019"
+       width="794.50196"
+       height="34.952709"
+       id="rect4" />
+    <color-profile
+       name="Adobe-RGB-1998"
+       xlink:href="../../../../../../../../../WINDOWS/system32/spool/drivers/color/AdobeRGB1998.icc"
+       id="color-profile2" />
+    <rect
+       x="647.96942"
+       y="256.76797"
+       width="379.10245"
+       height="33.608376"
+       id="rect6-2" />
+    <rect
+       x="617.04974"
+       y="349.5271"
+       width="373.72513"
+       height="32.264038"
+       id="rect11-6" />
+    <rect
+       x="83.34877"
+       y="258.1123"
+       width="405.98914"
+       height="57.806404"
+       id="rect5-3" />
+    <rect
+       x="57.806404"
+       y="333.39508"
+       width="389.85715"
+       height="49.740395"
+       id="rect10-7" />
+    <rect
+       x="647.96942"
+       y="256.76797"
+       width="379.10245"
+       height="33.608376"
+       id="rect6-5" />
+    <rect
+       x="83.34877"
+       y="258.1123"
+       width="405.98914"
+       height="57.806404"
+       id="rect5-1" />
+    <rect
+       x="83.34877"
+       y="258.1123"
+       width="405.98914"
+       height="57.806404"
+       id="rect5-4" />
+  </defs>
+  <rect
+     style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.264583"
+     id="rect2"
+     width="508.99042"
+     height="255.74011"
+     x="-0.35568863"
+     y="30.233532" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:#2b0000;stroke-width:0.264583"
+       id="rect1"
+       width="507.56766"
+       height="30.944908"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.633053"
+       id="rect3"
+       width="140.12854"
+       height="123.76685"
+       x="179.0956"
+       y="91.240524" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,164.60679,130.15395)"
+       id="text5-2"
+       style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5-4);display:inline;fill:#241f1c;stroke:#2b0000"><tspan
+         x="83.349609"
+         y="282.44212"
+         id="tspan2">Return</tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.175316"
+       id="rect3-8-1"
+       width="106.08447"
+       height="12.538368"
+       x="195.17902"
+       y="119.53439" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,181.4012,80.02994)"
+       id="text3"
+       style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#999999;stroke:#2b0000"><tspan
+         x="71.25"
+         y="185.64915"
+         id="tspan3">Last Manager</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,40.904192,41.615569)"
+       id="text6"
+       style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#241f1c;stroke:#2b0000"><tspan
+         x="647.96875"
+         y="281.09642"
+         id="tspan4">Manager Username</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,54.989994,75.624436)"
+       id="text6-7"
+       style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6-5);display:inline;fill:#241f1c;stroke:#2b0000"><tspan
+         x="647.96875"
+         y="281.09642"
+         id="tspan5">Password</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-31.656288,33.079042)"
+       id="text7"
+       style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#241f1c;stroke:#2b0000" />
+    <rect
+       style="fill:none;stroke:#2b0000;stroke-width:0.305344"
+       id="rect9"
+       width="35.883789"
+       height="15.965228"
+       x="180.71019"
+       y="194.22636" />
+    <rect
+       style="fill:none;stroke:#2b0000;stroke-width:0.264583"
+       id="rect9-3"
+       width="24.186827"
+       height="17.784431"
+       x="292.03259"
+       y="192.81009" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,272.10179,128.04791)"
+       id="text5"
+       style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#241f1c;stroke:#2b0000"><tspan
+         x="83.349609"
+         y="282.44212"
+         id="tspan6">Login</tspan></text>
+  </g>
+  <rect
+     style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.175316"
+     id="rect3-8-1-8"
+     width="106.08447"
+     height="12.538368"
+     x="194.82098"
+     y="151.95848" />
+</svg>

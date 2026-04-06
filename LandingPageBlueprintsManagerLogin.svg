@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
-   sodipodi:docname="LandingPageBlueprints.svg"
+   sodipodi:docname="LandingPageBlueprintsManagerLogin.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.74386223"
-     inkscape:cx="965.2325"
-     inkscape:cy="561.25985"
+     inkscape:zoom="0.52599003"
+     inkscape:cx="1022.8331"
+     inkscape:cy="628.33891"
      inkscape:window-width="1920"
      inkscape:window-height="1094"
      inkscape:window-x="-11"
@@ -133,7 +133,13 @@
        y="30.919704"
        width="681.57782"
        height="56.462067"
-       id="rect14-4" />
+       id="rect14-5" />
+    <rect
+       x="48.396057"
+       y="30.919704"
+       width="681.57782"
+       height="56.462067"
+       id="rect14-5-4" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -160,7 +166,7 @@
        style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11-6);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
          x="617.04883"
          y="373.85618"
-         id="tspan4">+\- Value</tspan></text>
+         id="tspan16">+\- Value</tspan></text>
     <rect
        style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.175316"
        id="rect3-8-1-2"
@@ -203,9 +209,9 @@
        style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#b3b3b3;stroke:#2b0000"><tspan
          x="71.25"
          y="185.64915"
-         id="tspan6"><tspan
+         id="tspan18"><tspan
            style="fill:#241f1c"
-           id="tspan5">Transcation(s)</tspan></tspan></text>
+           id="tspan17">Transcation(s)</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,63.668263,-1.0670659)"
@@ -213,7 +219,7 @@
        style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#241f1c;stroke:#2b0000"><tspan
          x="83.349609"
          y="282.44212"
-         id="tspan7">Employee</tspan></text>
+         id="tspan19">Employee</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,28.099401,-0.35568862)"
@@ -221,7 +227,7 @@
        style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#241f1c;stroke:#2b0000"><tspan
          x="647.96875"
          y="281.09642"
-         id="tspan8">Expense</tspan></text>
+         id="tspan20">Expense</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,186.77654,-0.31971595)"
@@ -229,7 +235,7 @@
        style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6-2);display:inline;fill:#241f1c;stroke:#2b0000"><tspan
          x="647.96875"
          y="281.09642"
-         id="tspan9">Cost</tspan></text>
+         id="tspan21">Cost</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -237,7 +243,7 @@
        style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#241f1c;stroke:#2b0000"><tspan
          x="946.41211"
          y="184.3054"
-         id="tspan10">Add New</tspan></text>
+         id="tspan22">Add New</tspan></text>
     <rect
        style="fill:none;stroke:#2b0000;stroke-width:0.317204"
        id="rect8"
@@ -259,7 +265,7 @@
        style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
          x="57.806641"
          y="357.72337"
-         id="tspan11">Tom LastName</tspan></text>
+         id="tspan23">Tom LastName</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,18.298545,4.0035891)"
@@ -267,7 +273,7 @@
        style="text-decoration:underline;stroke:#2b0000;fill:#1a1a1a;display:inline;shape-inside:url(#rect10-7);white-space:pre;direction:ltr;writing-mode:lr-tb;-inkscape-font-specification:'Sans, Normal';font-family:Sans;font-size:26.6667px"><tspan
          x="57.806641"
          y="357.72337"
-         id="tspan12">01</tspan></text>
+         id="tspan24">01</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,25.609581,-1.0670659)"
@@ -275,7 +281,7 @@
        style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
          x="617.04883"
          y="373.85618"
-         id="tspan13">Expense Type</tspan></text>
+         id="tspan25">Expense Type</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,6.4023952,1.0670659)"
@@ -283,7 +289,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect12);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
          x="1775.8672"
          y="365.59995"
-         id="tspan14">X</tspan></text>
+         id="tspan26">X</tspan></text>
     <rect
        style="fill:#808080;stroke:#2b0000;stroke-width:0.264583"
        id="rect13"
@@ -291,6 +297,13 @@
        height="19.562874"
        x="10.31497"
        y="5.3353291" />
+    <rect
+       style="fill:#808080;stroke:#2b0000;stroke-width:0.195964"
+       id="rect13-8"
+       width="103.63428"
+       height="19.631493"
+       x="249.13501"
+       y="5.308094" />
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -298,22 +311,30 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
          x="48.396484"
          y="69.846044"
-         id="tspan15">Employee Transaction Tacker</tspan></text>
-    <rect
-       style="fill:#808080;stroke:#2b0000;stroke-width:0.182752"
-       id="rect13-2"
-       width="90.071045"
-       height="19.644705"
-       x="413.16916"
-       y="4.3072438" />
+         id="tspan27">Employee Transaction Tacker</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,406.09631,-0.63148073)"
-       id="text13-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14-4);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,252.83343,0.89088273)"
+       id="text13-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14-5);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
          x="48.396484"
          y="69.846044"
-         id="tspan16">View Account</tspan></text>
+         id="tspan28">Create User</tspan></text>
+    <rect
+       style="fill:#808080;stroke:#2b0000;stroke-width:0.195964"
+       id="rect13-8-2"
+       width="103.63428"
+       height="19.631493"
+       x="394.48401"
+       y="5.7326732" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,395.16433,1.3154617)"
+       id="text13-7-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14-5-4);display:inline;fill:#1a1a1a;stroke:#2b0000"><tspan
+         x="48.396484"
+         y="69.846044"
+         id="tspan29">View Account</tspan></text>
     <rect
        style="fill:#b3b3b3;stroke:#2b0000;stroke-width:0.0925006"
        id="rect3-8-3"
@@ -328,6 +349,6 @@
        style="font-size:26.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5-3);display:inline;fill:#241f1c;stroke:#2b0000"><tspan
          x="83.349609"
          y="282.44212"
-         id="tspan17">ID</tspan></text>
+         id="tspan30">ID</tspan></text>
   </g>
 </svg>
